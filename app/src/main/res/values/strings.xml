@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="silahkan_click">Silahkan Click!</string>
+    <string name="text_description">Cracking the human brain to make learning as fun as watching Netflix, as addictive as browsing your instagram feed</string>
+    <string name="text_tags">Talks about #techforgood and #socialpreneurship</string>
+    <string name="text_job">Binar Academy</string>
+    <string name="text_address">Jakarta, Jakarta, Indonesia</string>
+    <string name="text_followers">24.342</string>
+    <string name="text_follower">followers •</string>
+    <string name="text_name">Sulthan Laksono Ramadhan</string>
+    <string name="text_number">• 1st</string>
+    <string name="text_mutual_connections"><b>307 mutual connections:</b> Dr. Pratama Persada, Norman Sasono, and 305 others</string>
+    <string name="text_message">Message</string>
+    <string name="text_hiring"><b>Hiring a Bussiness Analyst &amp; 1 other</b></string>
+    <string name="text_desc_hiring">Binar Academy • Jakarta Metropolitan Area • 300 days ago</string>
+    <string name="text_view_job">View both jobs</string>
+    <string name="text_highlights">Highlights</string>
+    <string name="text_title_binar">You both work at Binar Academy</string>
+    <string name="text_desc_binar">Alamanda started at Binar Academy 3 years before you did</string>
+    <string name="text_total_connections">500+ connections</string>
+    <string name="text_hint">Search</string>
+
+    <string-array name="listSpinner">
+        <item>-Pilih Handphone-</item>
+        <item>Xiaomi</item>
+        <item>iPhone</item>
+        <item>Oppo</item>
+    </string-array>
+</resources>
